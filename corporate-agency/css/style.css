@@ -60,6 +60,9 @@
 a.image {
   display: block;
 }
+.tp-bullet-inner{
+    display: none;
+}
 .image img {
   width: 100%;
   height: 100%;
